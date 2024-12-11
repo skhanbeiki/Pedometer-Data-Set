@@ -7,5 +7,37 @@ We are committed to observing ethical and legal principles in collecting and usi
 
 Ultimately, our goal with this data collection is to improve the quality of services and improve the user experience using real-world data-based analytics, without affecting users' privacy.
 
+# Types of information :
++ Profile
++ Device
++ Walking Activity
++ Route
+
+# Profile table fields :
+```
+User
+Gender
+Height (CM)
+Weight (KG)
+```
+
+# Device table fields :
+```
+Device ID
+Application Version
+SDK Version
+Platform Version
+Brand
+Model
+Operators
+Network Type
+Language
+Local Time Zone
+Screen Width
+Screen Height
+Screen DPI
+```
+
+
 
 
