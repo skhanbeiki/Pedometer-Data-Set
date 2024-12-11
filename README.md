@@ -38,6 +38,19 @@ Screen Height
 Screen DPI
 ```
 
+# Walking Activity table fields :
+```
+User
+Type
+GPS Type
+Step
+Step Correct
+Distance
+Distance Correct
+Time
+Activity Date
+```
+
 
 
 
